@@ -1,0 +1,17 @@
+{
+  "name": "tobuffer-stream",
+  "description": "",
+  "version": "0.0.1",
+  "main": "tobuffer-stream.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deathcap/tobuffer-stream.git"
+  },
+  "keywords": [
+    "voxel",
+    "plugin"
+  ],
+  "dependencies": {
+  },
+  "license": "MIT"
+}
