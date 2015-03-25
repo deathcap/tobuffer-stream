@@ -1,7 +1,7 @@
 {
   "name": "tobuffer-stream",
   "description": "through stream to convert typed arrays and ArrayBuffers to Buffer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "tobuffer-stream.js",
   "repository": {
     "type": "git",
